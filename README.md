@@ -1,12 +1,16 @@
 <h1 align="center">🌀 Welcome to my profile 🌀</h1>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Pazinati&show_icons=true&count_private=true&theme=tokyonight" height="200" align="center">
+</div>
+<br></br>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" width="110" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" width="110" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" width="110" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" width="110" align="center">
-</div>
+  
+ </div>
 <h2 align="center"> Contact <h2>
 <div align="center">
   <a href="mailto:matheuspazinati@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="200" height="55"></a>  
