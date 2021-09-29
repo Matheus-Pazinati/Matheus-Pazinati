@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to my profile 🛸</h1>
+<h1 align="center">🛸 Welcome to my profile 👨‍💻</h1>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Pazinati&show_icons=true&count_private=true&theme=tokyonight" height="200" align="center">
