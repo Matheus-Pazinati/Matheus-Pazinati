@@ -37,6 +37,6 @@
  <br>
  <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Pazinati&show_icons=true&count_private=true&theme=merko" height="200" width="49%"    align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="49%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Pazinati&show_icons=true&count_private=true&theme=merko" height="200" width="57%"    align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="42%" align="center">
 </div>
