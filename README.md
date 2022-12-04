@@ -10,10 +10,10 @@
   <li>🧙‍♂️ Meu nome é Matheus Martins Pazinati, tenho 24 anos.
   <li>🏠 Moro no interior de São Paulo.
   <li>👨‍🎓 Formado em Gestão da Tecnologia da Informação pela Fatec Catanduva.
-  <li>💼 Buscando uma vaga na área de desenvolvimento de software, com foco em front end.
+  <li>💼 Buscando uma vaga na área de desenvolvimento de software, com foco em Front End.
   <li>📖 As áreas da tecnologia que eu mais gosto são desenvolvimento de software, redes de computadores e segurança da informação.
-  <li>💻 Atualmente estou me especializando no framework/biblioteca ReactJS, e no momento estou estudando Typescript.
-  <li>⚡ Nas horas vagas, gosto de assistir filmes, séries e documentários, ler revistas, jogar futebol e jogos online.
+  <li>💻 Atualmente estou me especializando na biblioteca ReactJS, fazendo o bootcamp Ignite da Rocketseat.
+  <li>⚡ Nas horas vagas, gosto de assistir filmes, séries e documentários, escrever posts/artigos no <a href="https://www.tabnews.com.br/matheuspazinati" target="_blank">TabNews</a>, ler revistas, jogar futebol e jogos online.
 </ul>
 <br>
 <h2>📺 Tecnologias e ferramentas</h2>
@@ -22,15 +22,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="85" align="center" title= "HTML5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="85" align="center" title= "CSS3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="85" align="center" title= "Javascript" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="85" align="center" title= "Typescript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="85" align="center" title= "Git" /> 
   </div>
   <br>
   <br>
   <div>
     <h2>🌱 Estudando...</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="85" align="center" title= "Typescript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" width="85" align="center" title= "ReactJS"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="60" width="85" align="center" title= "NextJS"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" width="100" align="center" title= "Tailwindcss" />
   </div>
  </div>
  <br>
