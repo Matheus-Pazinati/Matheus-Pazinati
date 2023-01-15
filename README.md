@@ -23,19 +23,20 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="85" align="center" title= "CSS3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="85" align="center" title= "Javascript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="85" align="center" title= "Typescript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" width="85" align="center" title= "ReactJS"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="85" align="center" title= "Git" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="150" height="120" align="center" title= "Tailwindcss" />
   </div>
   <br>
   <br>
   <div>
-    <h2>🌱 Estudando...</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" width="85" align="center" title= "ReactJS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="60" width="85" align="center" title= "NextJS"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" width="100" align="center" title= "Tailwindcss" />
+    <h2>📖 Estudando</h2>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="60" width="85" align="center" title="NextJS" />  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" width="85" align="center" title="Redux" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="70" width="95" align="center" title="GraphQL" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="70" width="95" align="center" title="SASS" />      
   </div>
  </div>
- <br>
- <br>
  <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Pazinati&show_icons=true&count_private=true&theme=merko" height="200" width="57%"    align="center">
