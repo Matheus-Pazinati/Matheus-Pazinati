@@ -3,7 +3,7 @@
 <div align="center">
   <a href="mailto:matheuspazinati@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="140" height="35"></a>  
   <a href="https://www.linkedin.com/in/matheus-pazinati-287925197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="140" height="35"></a>
-  <a href="https://discord.gg/sAG8Wc9nEH"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="140" height="35"></a>
+  <a href="https://www.tabnews.com.br/matheuspazinati" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=TabNews&color=blueviolet&style=for-the-badge&logo=powershell&logoColor=white" width="140" height="35"></a>
  </div>
 <h2>👨‍💻 Um pouco sobre mim...</h2>
 <ul>
@@ -13,7 +13,7 @@
   <li>💼 Buscando uma vaga na área de desenvolvimento de software, com foco em Front End.
   <li>📖 As áreas da tecnologia que eu mais gosto são desenvolvimento de software, redes de computadores e segurança da informação.
   <li>💻 Atualmente estou me especializando na biblioteca ReactJS, fazendo o bootcamp Ignite da Rocketseat.
-  <li>⚡ Nas horas vagas, gosto de assistir filmes, séries e documentários, escrever posts/artigos no <a href="https://www.tabnews.com.br/matheuspazinati" target="_blank">TabNews</a>, ler revistas, jogar futebol e jogos online.
+  <li>⚡ Nas horas vagas, gosto de assistir filmes, séries e documentários, escrever posts/artigos no TabNews, ler revistas, jogar futebol e jogos online.
 </ul>
 <br>
 <h2>📺 Tecnologias e ferramentas</h2>
@@ -21,20 +21,19 @@
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" width="85" align="center" title= "HTML5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" width="85" align="center" title= "CSS3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="85" align="center" title= "Git" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="85" align="center" title= "Javascript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="85" align="center" title= "Typescript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" width="85" align="center" title= "ReactJS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" width="85" align="center" title= "Git" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="150" height="120" align="center" title= "Tailwindcss" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="85" height="60" align="center" title= "Tailwindcss" />
   </div>
   <br>
   <br>
   <div>
     <h2>📖 Estudando</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="60" width="85" align="center" title="NextJS" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" width="85" align="center" title="Redux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" height="70" width="95" align="center" title="GraphQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="70" width="95" align="center" title="SASS" />      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="55" width="80" align="center" title="Jest" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="85" align="center" title="NodeJS" />   
   </div>
  </div>
  <br>
