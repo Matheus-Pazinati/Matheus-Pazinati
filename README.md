@@ -12,7 +12,7 @@
   <li>👨‍🎓 Formado em Gestão da Tecnologia da Informação pela Fatec Catanduva.
   <li>💼 Buscando uma vaga na área de desenvolvimento de software, com foco em Front End.
   <li>📖 As áreas da tecnologia que eu mais gosto são desenvolvimento de software, redes de computadores e segurança da informação.
-  <li>💻 Atualmente estou me especializando na biblioteca ReactJS, fazendo o bootcamp Ignite da Rocketseat.
+  <li>💻 Atualmente estou me especializando nas bibliotecas ReactJS e Next, fazendo o bootcamp Ignite da Rocketseat.
   <li>⚡ Nas horas vagas, gosto de assistir filmes, séries e documentários, escrever posts/artigos no TabNews, ler revistas, jogar futebol e jogos online.
 </ul>
 <br>
@@ -25,15 +25,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" width="85" align="center" title= "Javascript" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" width="85" align="center" title= "Typescript"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60" width="85" align="center" title= "ReactJS"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="60" width="85" align="center" title="NextJS" />  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="85" height="60" align="center" title= "Tailwindcss" />
   </div>
   <br>
   <br>
   <div>
     <h2>📖 Estudando</h2>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="60" width="85" align="center" title="NextJS" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="55" width="80" align="center" title="Jest" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" width="85" align="center" title="NodeJS" />   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="65" width="90" align="center" title="PostgreSQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="65" width="90" align="center" title="Docker" />
   </div>
  </div>
  <br>
