@@ -7,13 +7,12 @@
  </div>
 <h2>👨‍💻 Um pouco sobre mim...</h2>
 <ul>
-  <li>🧙‍♂️ Meu nome é Matheus Martins Pazinati, tenho 24 anos.
-  <li>🏠 Moro no interior de São Paulo.
-  <li>👨‍🎓 Formado em Gestão da Tecnologia da Informação pela Fatec Catanduva.
-  <li>💼 Buscando uma vaga na área de desenvolvimento de software, com foco em Front End.
+  <li>🧙‍♂️ Meu nome é Matheus Martins Pazinati, tenho 25 anos.
+  <li>🏠 Moro em uma cidade no interior de São Paulo.
+  <li>👨‍🎓 Formado em Gestão da Tecnologia da Informação pela Fatec Catanduva em 2020.
+  <li>💼 Buscando uma vaga na área de desenvolvimento web. Front-end ou Back-end.
   <li>📖 As áreas da tecnologia que eu mais gosto são desenvolvimento de software, redes de computadores e segurança da informação.
-  <li>💻 Atualmente estou me especializando nas bibliotecas ReactJS e Next, fazendo o bootcamp Ignite da Rocketseat.
-  <li>⚡ Nas horas vagas, gosto de assistir filmes, séries e documentários, escrever posts/artigos no TabNews, ler revistas, jogar futebol e jogos online.
+  <li>⚡ Nas horas vagas, gosto de assistir filmes, séries e documentários, escrever posts/artigos no TabNews e ler revistas ou livros.
 </ul>
 <br>
 <h2>📺 Tecnologias e ferramentas</h2>
@@ -39,6 +38,5 @@
  </div>
  <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Pazinati&show_icons=true&count_private=true&theme=merko" height="200" width="57%"    align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="42%" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="42%" align="left">
 </div>
